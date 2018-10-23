@@ -1,5 +1,5 @@
 {
   "projects": {
-    "static-build": "https://github.com/mprobber/static-build.git"
+    "static-build": "git@github.com:mprobber/static-build.git"
   }
 }
