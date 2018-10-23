@@ -1,0 +1,20 @@
+{
+  "name": "meta-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "static-build",
+    "pretty-fly"
+  ],
+  "repository": "git@github.com:mprobber/workspace.git",
+  "author": "Michael Probber <michael@probber.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.7.0",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "flow-bin": "^0.83.0"
+  }
+}
