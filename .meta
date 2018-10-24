@@ -3,6 +3,7 @@
     "static-build": "git@github.com:mprobber/static-build.git",
     "pretty-fly": "git@github.com:mprobber/pretty-fly.git",
     "portfolio": "git@github.com:mprobber/portfolio.git",
-    "scripts": "git@github.com:mprobber/scripts.git"
+    "scripts": "git@github.com:mprobber/scripts.git",
+    "portfolio/release": "git@github.com:mprobber/mprobber.github.io.git"
   }
 }
