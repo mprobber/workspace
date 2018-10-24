@@ -5,7 +5,8 @@
   "private": true,
   "workspaces": [
     "static-build",
-    "pretty-fly"
+    "pretty-fly",
+    "portfolio"
   ],
   "repository": "git@github.com:mprobber/workspace.git",
   "author": "Michael Probber <michael@probber.com>",

@@ -1,6 +1,7 @@
 {
   "projects": {
     "static-build": "git@github.com:mprobber/static-build.git",
-    "pretty-fly": "git@github.com:mprobber/pretty-fly.git"
+    "pretty-fly": "git@github.com:mprobber/pretty-fly.git",
+    "portfolio": "git@github.com:mprobber/portfolio.git"
   }
 }
