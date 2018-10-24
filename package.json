@@ -6,7 +6,8 @@
   "workspaces": [
     "static-build",
     "pretty-fly",
-    "portfolio"
+    "portfolio",
+    "scripts"
   ],
   "repository": "git@github.com:mprobber/workspace.git",
   "author": "Michael Probber <michael@probber.com>",
