@@ -1227,6 +1227,13 @@ braces@^2.3.0, braces@^2.3.1:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
+branch-name@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/branch-name/-/branch-name-1.0.0.tgz#9065d46496fc0886cc997541a7158e35d7267a10"
+  integrity sha512-VjqU3qXU+dihiR0gtO9BbtaJeTmhsJj3PoghKrBWmIi53rvkmGo9su1eU1jwCSueQjAs10LpEx4xb8V5SpaiTQ==
+  dependencies:
+    mkdirtemp "^1.1.0"
+
 brorand@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/brorand/-/brorand-1.1.0.tgz#12c25efe40a45e3c323eb8675a0a0ce57b22371f"
@@ -3706,6 +3713,11 @@ mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0:
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   dependencies:
     minimist "0.0.8"
+
+mkdirtemp@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/mkdirtemp/-/mkdirtemp-1.1.0.tgz#079aa7d2e5e89488a692b03c361b26af772e9fe5"
+  integrity sha1-B5qn0uXolIimkrA8Nhsmr3cun+U=
 
 mobx-react@^5.3.5:
   version "5.3.5"
