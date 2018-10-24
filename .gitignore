@@ -5,3 +5,4 @@ portfolio
 dist
 scripts
 portfolio/release
+yarn-error.log
