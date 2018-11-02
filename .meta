@@ -5,6 +5,8 @@
     "portfolio": "git@github.com:mprobber/portfolio.git",
     "scripts": "git@github.com:mprobber/scripts.git",
     "portfolio/release": "git@github.com:mprobber/mprobber.github.io.git",
-    "bounce": "git@github.com:mprobber/bounce.git"
+    "bounce": "git@github.com:mprobber/bounce.git",
+    "performer": "git@github.com:mprobber/performer.git",
+    "conductor": "git@github.com:mprobber/conductor.git"
   }
 }

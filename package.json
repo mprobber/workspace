@@ -8,7 +8,9 @@
     "pretty-fly",
     "portfolio",
     "scripts",
-    "bounce"
+    "bounce",
+    "performer",
+    "conductor"
   ],
   "repository": "git@github.com:mprobber/workspace.git",
   "author": "Michael Probber <michael@probber.com>",
@@ -20,5 +22,17 @@
     "eslint-plugin-flowtype": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
     "flow-bin": "^0.83.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@babel/plugin-transform-flow-strip-types": "^7.0.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
   }
 }
