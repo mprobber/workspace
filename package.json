@@ -10,7 +10,8 @@
     "scripts",
     "bounce",
     "performer",
-    "conductor"
+    "conductor",
+    "vigilant-bassoon"
   ],
   "repository": "git@github.com:mprobber/workspace.git",
   "author": "Michael Probber <michael@probber.com>",
