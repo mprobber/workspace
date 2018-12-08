@@ -3,16 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
-  "workspaces": [
-    "static-build",
-    "pretty-fly",
-    "portfolio",
-    "scripts",
-    "bounce",
-    "performer",
-    "conductor",
-    "vigilant-bassoon"
-  ],
   "repository": "git@github.com:mprobber/workspace.git",
   "author": "Michael Probber <michael@probber.com>",
   "license": "MIT",
@@ -34,6 +24,7 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-flow": "^7.0.0",
-    "@babel/preset-react": "^7.0.0"
+    "@babel/preset-react": "^7.0.0",
+    "meta-yarn": "^0.0.5"
   }
 }
