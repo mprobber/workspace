@@ -25,6 +25,7 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
+    "lerna": "^3.6.0",
     "meta-yarn": "^0.0.5"
   }
 }
