@@ -8,6 +8,8 @@
     "performer": "git@github.com:mprobber/performer.git",
     "conductor": "git@github.com:mprobber/conductor.git",
     "vigilant-bassoon": "git@github.com:mprobber/vigilant-bassoon.git",
-    "publish-pages": "git@github.com:mprobber/publish-pages.git"
+    "publish-pages": "git@github.com:mprobber/publish-pages.git",
+    "portfolio2": "git@github.com:mprobber/portfolio2.git",
+    "config": "git@github.com:mprobber/config.git"
   }
 }
